@@ -36,6 +36,15 @@ html {
   padding: 10px;
 }
 
+.mainCard .links #link-image:hover {
+  opacity: 0.3;
+}
+
 .mainCard .links {
   display: flex;
+}
+
+.mainCard .container #bio {
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 15px;
 }
